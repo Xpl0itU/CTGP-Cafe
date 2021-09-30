@@ -1,21 +1,21 @@
-## Welcome to CTGP-Café - [Discord Server](https://discord.gg/zc4UewJjwR)
+## Welcome to CTGP-Café - [Discord Server](https://discord.gg/wqSx6hRCgA)
 
 An unofficial mod for the WiiU version of MARIO KART 8 (and maybe for the NX in the future), the mod adds tracks, ~~mods~~ and patches. It's currently being developed by Rambo6Glaz.
 
-This website will hold various data such as news, tutorials and links. You can contact me on [Twitter](https://www.twitter.com/NexoLePaveDroit), or us on [Discord](https://discord.gg/zc4UewJjwR)
+This website will hold various data such as news, tutorials and links. You can contact us on [Discord](https://discord.gg/wqSx6hRCgA)
 
-### Latest news (28 / 01 / 2021)
+### Latest news (30 / 09 / 2021)
 
-**CTGP-Café** is now available.
+**CTGP-Café** will soon release in beta.
 
 ### Installation prerequisite
 
 - A WiiU on firmware 5.5.x
-- A SDCard formatted in FAT32 witht the HBL files setup correctly
+- A SDCard formatted in FAT32 with the HBL files setup correctly
 
 ### Installation instructions
 
-- Download the latest package [**here**](https://ctgp-cafe.rambo6dev.net/release.zip)
+- Download the latest package [**here**](#) (Link will work on release)
 - Put the data files inside your SD Card
 - Start the WiiU Homebrew Channel
 - Start the CTGP-8 homebrew application
@@ -29,6 +29,6 @@ This website will hold various data such as news, tutorials and links. You can c
 
 ### Support or Contact
 
-Are you having trouble with CTGP-Café ? Contact us on [Discord](https://discord.gg/zc4UewJjwR)
+Are you having trouble with CTGP-Café ? Contact us on [Discord](https://discord.gg/wqSx6hRCgA)
 
 Try your best at explaining **when**/**how** the issue occurs.
