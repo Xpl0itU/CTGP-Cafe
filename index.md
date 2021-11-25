@@ -4,9 +4,9 @@ An unofficial mod for the WiiU version of MARIO KART 8 (and maybe for the NX in 
 
 This website will hold various data such as news, tutorials and links. You can contact us on [Discord](https://discord.gg/wqSx6hRCgA)
 
-### Latest news (30 / 09 / 2021)
+### Latest news (25 / 11 / 2021)
 
-**CTGP-Café** will soon release in beta.
+**CTGP-Café** is released, and on version 1.2.0-beta.
 
 ### Installation prerequisite
 
@@ -15,11 +15,11 @@ This website will hold various data such as news, tutorials and links. You can c
 
 ### Installation instructions
 
-- Download the latest package [**here**](#) (Link will work on release)
-- Put the data files inside your SD Card
+- Download the latest package [**here**](https://github.com/Rambo6Glaz/CTGP-Cafe/releases/tag/v1.2.0-beta)
+- Launch the installer .exe, select your SD Card, then you can download the latest files (or update if already present)
 - Start the WiiU Homebrew Channel
 - Start the CTGP-8 homebrew application
-- Press **"Start CTGP"**
+- Done !
 
 ### Credits
 
